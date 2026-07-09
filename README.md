@@ -34,8 +34,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/hemanthkumara289/leetcode-java/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/hemanthkumara289/leetcode-java/tree/master/0217-contains-duplicate) |
+| [0383-ransom-note](https://github.com/hemanthkumara289/leetcode-java/tree/master/0383-ransom-note) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/hemanthkumara289/leetcode-java/tree/master/0217-contains-duplicate) |
+## String
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/hemanthkumara289/leetcode-java/tree/master/0383-ransom-note) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/hemanthkumara289/leetcode-java/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
