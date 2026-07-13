@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/hemanthkumara289/leetcode-java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/hemanthkumara289/leetcode-java/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/hemanthkumara289/leetcode-java/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/hemanthkumara289/leetcode-java/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/hemanthkumara289/leetcode-java/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/hemanthkumara289/leetcode-java/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/hemanthkumara289/leetcode-java/tree/master/1920-build-array-from-permutation) |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hemanthkumara289/leetcode-java/tree/master/0020-valid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/hemanthkumara289/leetcode-java/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
