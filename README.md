@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/hemanthkumara289/leetcode-java/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/hemanthkumara289/leetcode-java/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/hemanthkumara289/leetcode-java/tree/master/1480-running-sum-of-1d-array) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/hemanthkumara289/leetcode-java/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1672-richest-customer-wealth](https://github.com/hemanthkumara289/leetcode-java/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/hemanthkumara289/leetcode-java/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/hemanthkumara289/leetcode-java/tree/master/1929-concatenation-of-array) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hemanthkumara289/leetcode-java/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/hemanthkumara289/leetcode-java/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Stack
 |  |
 | ------- |
@@ -117,4 +119,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/hemanthkumara289/leetcode-java/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/hemanthkumara289/leetcode-java/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/hemanthkumara289/leetcode-java/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/hemanthkumara289/leetcode-java/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 <!---LeetCode Topics End-->
